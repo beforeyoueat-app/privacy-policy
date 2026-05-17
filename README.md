@@ -21,4 +21,4 @@ If you are located in the EU, you have the right to access, correct, or delete y
 This app is not directed at children under 13.
 
 ## Contact
-[YOUR EMAIL]
+beforeyoueat@proton.me
