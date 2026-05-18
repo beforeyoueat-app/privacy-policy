@@ -18,7 +18,8 @@ The app can access your camera to photograph meals for AI nutrition analysis. Im
 If you are located in the EU, you have the right to access, correct, or delete your personal data. Contact us at beforeyoueat@proton.me to exercise these rights.
 
 ## Data Deletion
-To delete your Before You Eat account and all associated meal data, please email beforeyoueat@proton.me from the email address you used to sign in, with the subject line 'Delete Account'.
+You can manually delete individual logged meals and exercises at any time directly within the Before You Eat app.
+To delete your entire account and all associated data, please email beforeyoueat@proton.me from the email address you used to sign in, with the subject line 'Delete Account'.
 
 ## Children
 This app is not directed at children under 13.
