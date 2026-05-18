@@ -15,7 +15,7 @@ The app can access your camera to photograph meals for AI nutrition analysis. Im
 - Google Play Billing (subscriptions)
 
 ## GDPR
-If you are located in the EU, you have the right to access, correct, or delete your personal data. Contact us at [YOUR EMAIL] to exercise these rights.
+If you are located in the EU, you have the right to access, correct, or delete your personal data. Contact us at beforeyoueat@proton.me to exercise these rights.
 
 ## Children
 This app is not directed at children under 13.
