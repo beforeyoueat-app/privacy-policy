@@ -11,7 +11,7 @@ When you use Before You Eat, we collect and store the following information to p
 ## Third Party Services
 We use the following third-party services which may collect or process your data:
 - **Google Sign-In:** For secure user authentication.
-- **OpenAI:** For AI-powered nutrition analysis and meal editing (OpenAI does not use your data to train their models via the API).
+- **OpenAI:** For AI-powered nutrition analysis and meal editing.
 - **Google AdMob:** For displaying advertisements. AdMob may collect Advertising IDs and device information to serve relevant ads.
 - **Google Play Billing:** For securely handling premium subscriptions.
 
