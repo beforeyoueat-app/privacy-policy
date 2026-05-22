@@ -1,18 +1,25 @@
 # Privacy Policy for Before You Eat
 
-*Last updated: May 18, 2026*
+*Last updated: May 23, 2026*
 
 ## Information We Collect
 When you use Before You Eat, we collect and store the following information to provide and improve our services:
 - **Account Information:** We collect your name, email address, and Google User ID when you authenticate using Google Sign-In.
-- **Health and Fitness Data:** We store the meal names, nutritional data (macros/calories), daily macro goals, and exercise data (calories burned) that you log in the app on our secure servers to sync your data across devices.
+- **Health and Fitness Data:** We store the meal names, nutritional data (macros/calories), and daily macro goals that you log in the app on our secure servers to sync your data across devices.
 - **Photos:** The app can access your camera and photo gallery so you can photograph meals for AI nutrition analysis. If you save a meal with a photo, that photo is securely stored on our servers. Images are also sent to OpenAI for temporary processing to generate macro estimates.
+
+## Health Connect Integration
+Our app integrates with Android Health Connect to read specific health and fitness data directly from your device.
+- **Data Accessed:** We request read-access to your **Daily Step Counts** and **Active Calories Burned**.
+- **Purpose of Use:** This data is accessed strictly to display your real-time daily activity progress, track active calorie burn, and assist in estimating your cumulative calorie balance for the day.
+- **Storage and Transfer:** This data is processed locally on your device and synchronized to our secure databases solely for cross-device syncing. We strictly adhere to the Google Play Developer Program Policies, including the Health Connect Permissions policy.
+- **Data Protection Guarantee:** **We do not sell, rent, lease, or share your Health Connect data** with third-party data brokers, advertising platforms, or marketing agencies, nor do we use it for targeted advertising.
 
 ## Third Party Services
 We use the following third-party services which may collect or process your data:
 - **Google Sign-In:** For secure user authentication.
 - **OpenAI:** For AI-powered nutrition analysis and meal editing.
-- **Google AdMob:** For displaying advertisements. AdMob may collect Advertising IDs and device information to serve relevant ads.
+- **Google AdMob:** For displaying advertisements. AdMob may collect Advertising IDs and device information to serve relevant ads. *(AdMob strictly does not have access to your Health Connect data.)*
 - **Google Play Billing:** For securely handling premium subscriptions.
 
 ## GDPR & Your Rights
