@@ -5,13 +5,15 @@
 ## Information We Collect
 When you use Before You Eat, we collect and store the following information to provide and improve our services:
 - **Account Information:** We collect your name, email address, and Google User ID when you authenticate using Google Sign-In.
-- **Health and Fitness Data:** We store the meal names, nutritional data (macros/calories), and daily macro goals that you log in the app on our secure servers to sync your data across devices.
+- **Health and Fitness Data:** We store the meal names, nutritional data (macros/calories), daily macro goals, and weight measurements that you log in the app on our secure servers to sync your data across devices.
 - **Photos:** The app can access your camera and photo gallery so you can photograph meals for AI nutrition analysis. If you save a meal with a photo, that photo is securely stored on our servers. Images are also sent to OpenAI for temporary processing to generate macro estimates.
 
 ## Health Connect Integration
-Our app integrates with Android Health Connect to read specific health and fitness data directly from your device.
-- **Data Accessed:** We request read-access to your **Daily Step Counts** and **Active Calories Burned**.
-- **Purpose of Use:** This data is accessed strictly to display your real-time daily activity progress, track active calorie burn, and assist in estimating your cumulative calorie balance for the day.
+Our app integrates with Android Health Connect to read and write specific health and fitness data directly to and from your device.
+- **Data Accessed (Read & Write):** We request read and write-access to your **Daily Step Counts**, **Active Calories Burned**, and **Weight (Body Mass)**.
+- **Purpose of Use:** 
+  - **Steps & Calories:** This data is read strictly to display your real-time daily activity progress, track active calorie burn, and assist in estimating your cumulative calorie balance for the day.
+  - **Weight:** We read your weight to automatically keep your health and macro calculation profile accurate without requiring manual entry. If you modify your weight within our app, we write this update back to Health Connect so your other connected health and fitness apps remain synchronized.
 - **Storage and Transfer:** This data is processed locally on your device and synchronized to our secure databases solely for cross-device syncing. We strictly adhere to the Google Play Developer Program Policies, including the Health Connect Permissions policy.
 - **Data Protection Guarantee:** **We do not sell, rent, lease, or share your Health Connect data** with third-party data brokers, advertising platforms, or marketing agencies, nor do we use it for targeted advertising.
 
@@ -26,7 +28,7 @@ We use the following third-party services which may collect or process your data
 If you are located in the EU, you have the right to access, correct, restrict, or delete your personal data. Contact us at beforeyoueat@proton.me to exercise these rights.
 
 ## Data Deletion
-You can manually delete individual logged meals and exercises at any time directly within the Before You Eat app. 
+You can manually delete individual logged meals, weight logs, and exercises at any time directly within the Before You Eat app. 
 To delete your entire account and all associated data from our database, please email beforeyoueat@proton.me from the email address you used to sign in, with the subject line 'Delete Account'.
 
 ## Children
